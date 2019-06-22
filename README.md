@@ -1,2 +1,2 @@
 # Visao.Computacional
-Material desenvolvido e material de apoio da disciplina: Sistemas Inteligentes.
+Material desenvolvido e material de apoio da disciplina: Visão Computacional.
